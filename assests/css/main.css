@@ -48,6 +48,7 @@
 {
  border: 1px solid var(--mainColor);
  color: var(--mainColor); 
+ margin-right: 10px;
 }
 
 .header .auth a:last-of-type
